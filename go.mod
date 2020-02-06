@@ -1,4 +1,4 @@
-module github.com/swaggo/http-swagger
+module github.com/smw-104/http-swagger
 
 go 1.13
 
